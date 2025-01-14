@@ -19,9 +19,8 @@ get a more recent version or would like support**
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1250) using its DOI and the software itself, using the following DOI: [https://doi.org/10.1287/ijoc.2022.1250.cd](https://doi.org/10.1287/ijoc.2022.1250.cd)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6818509.svg)](https://doi.org/10.5281/zenodo.6818509)
 
 Below is the BibTex for citing this version of the code.
 
@@ -30,7 +29,7 @@ Below is the BibTex for citing this version of the code.
   author =        {Lalor, John P and Rodriguez, Pedro},
   publisher =     {INFORMS Journal on Computing},
   title =         {{py-irt} Version v2022.0061},
-  doi =           {https://doi.org/10.5281/zenodo.6818509}
+  doi =           {https://doi.org/10.1287/ijoc.2022.1250.cd}
   year =          {2022},
   url =           {https://github.com/INFORMSJoC/2022.0061},
 }  
